@@ -72,3 +72,5 @@ const products = [
       "ColourBlue Sub-brandiPhone ModelXR BrandApple Phone Hardware & Storage Internal Storage128 GB ProcessorA12 Bionic Chip Phone Build & Convenience Height15.09 cms Width7.57 cms Thickness0.83 cms Weight194 grams Water ResistantYes SensorsBarometer, Accelerometer, Proximity, Ambient Light",
   },
 ];
+
+export default products;
